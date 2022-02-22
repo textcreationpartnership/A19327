@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of the commaundement generall by the abbot of euyll profytes</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1530</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19327</idno>
+            <idno type="STC">STC 5743</idno>
+            <idno type="STC">ESTC S105076</idno>
+            <idno type="EEBO-CITATION">99840806</idno>
+            <idno type="PROQUEST">99840806</idno>
+            <idno type="VID">5341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5341)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 133:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of the commaundement generall by the abbot of euyll profytes</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>By me Peter Treuerys,</publisher>
+                  <pubPlace>[Newly enprynted at London in Southwarke :</pubPlace>
+                  <date>[1530?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name and address from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales --  Social conditions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5341:1"/>
+            <pb facs="tcp:5341:1"/>
+            <p>¶The Copy of the commaundement Generall by the Abbot of euyll profytes.</p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a cleric</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5341:2"/>
+            <pb facs="tcp:5341:2"/>
+            <p>
+               <seg rend="decorInit">M</seg>Yſaduyſed for faut of reaſon and diſcrecion, by the Emperour of al euyll grace and miſchief, Kynge of lewde gouernaunce &amp; neceſſi<g ref="char:EOLhyphen"/>tie, Duke of foly and negligence, Countie of beggery and lechery, Prynce of peryll and payne, Marques of daunger and diſloialtie, Baron of eſpyes in foreſtes, hygh wayes, &amp; other places murderous, And chief Capitayn of all caultelty &amp; deceyt.</p>
+            <div type="part">
+               <head>Salutacion.</head>
+               <p>TO all and euery our ſubiectes of our vncredable &amp; curſed nacion, vnlucky, louſy, vnfortunable, vnwytty, bandy beg<g ref="char:EOLhyphen"/>gers, hedge crepers, falſefiers of lettres and ſeales, contrefayſers of ſaltes, coyners of mo<g ref="char:EOLhyphen"/>ney, lyers, mockers, ſtaffe trayners, ſtelynge pardoners, purſe pyckers, pyke lockes, berers of fals relikes &amp; ſeales, heritikes, charmours, ſorcyers, and other ſuche lyke kepers of fami<g ref="char:EOLhyphen"/>liar ſpirites, theues murderers, enpoyſoners, cutte purſes, chyrche theues, maynteyners of tydynges and lyes, tellers of tales, pykers of males, flaterers, draw latches, and other of ſuche and lyke ordre: As tothdrawers, trya<g ref="char:EOLhyphen"/>clours, leches, glottons, ſwerers, ſcalde ſcor<g ref="char:EOLhyphen"/>uy ſcabbed hedes / ſtynkyng knaues, baudes, ruffyans, hazarders, horemongers, horſe cor<g ref="char:EOLhyphen"/>ſers, carders, dycers, preeſtes hores, blaſphe<g ref="char:EOLhyphen"/>mours, for ſwerers, vſurers, trayters, &amp; other ſuche lyke / as fals flaterynge fryers / loude louſy lyers / foles, fantaſtykes, and furyouſe
+<pb facs="tcp:5341:3"/> people, marchauntes, monkes, chanons, ſco<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>lers in vayne, hangmen, fleers of horſes, ga<g ref="char:EOLhyphen"/>lowclappers, vacaboundes, beters of father and mother, gloutes and glotons, and to all other ſuche our vnnoble ſubiectes and liege men inhabytynge within this our noble re<g ref="char:EOLhyphen"/>alme &amp; Yle of Knauery, &amp; to al other our ſub<g ref="char:EOLunhyphen"/>iecctes inhabityng within corners, cotages, baudy ſtynkyng lanes &amp; aleys, &amp; other ſuche like, beyng vnfortunate to be hanged, ſcour<g ref="char:EOLhyphen"/>ged, burned, or drowned, and to eche of them after theyr meryt or degre, Be it knowen to your weake wyt and vnderſtandynge, that after the diſpoſicion of the wedder, and the Iugement pronoſticate by our maladuyſed Aſtrologians, ſo wyſe inſtructe and experte that oft tymes they know nat what day it is whan they ryſe, nor what houre it is whan they go to bed / and after the conſtellacion of one of the ſeuen planets, which is vnknowe<g ref="char:cmbAbbrStroke">̄</g> whiche of them it may be: haue ſayd &amp; affyr<g ref="char:EOLhyphen"/>med vpon payn of theyr curſed &amp; meſchaunt lyues (which peraduenture ſhall be brief vn<g ref="char:EOLhyphen"/>to them of theyr great diſhonour and ſhame) that about the begynnynge of the moneth of May about mydnyght, ſhall be vppon vs an Eclypſe of the ſonne. By occaſion wherof, in the ſomer enſuyng may engendre, breed, and encreaſe amonge vs many &amp; greate multy<g ref="char:EOLhyphen"/>tude of dyuers ſmall &amp; lytle beeſtes &amp; beſty<g ref="char:EOLhyphen"/>lons, whoſe names amonge vs &amp; you be nat vnknowen / and be called maternally Lyce,
+<pb facs="tcp:5341:3"/> Flees, and nyttes / whiche beeſtes ſo named as we be aduyſed ſhall breed, encreaſe, and grow amonge vs in great nombre and mul<g ref="char:EOLhyphen"/>tytude / and alſo with them ſhall breed and increace other beſtes and wormes / but nat ſo nygh enioynynge vs. As flyes, flyeng har<g ref="char:EOLhyphen"/>tes, hornets, betles, pyſmers, and other ſuche lytle wormes or beeſtes / which lytle beeſtes or wormes ſhall bere no daunger of venym. ¶Alſo with theſe lytle beeſtes after the con<g ref="char:EOLhyphen"/>ſtellacyon before ſpecyfyed, ſhall encreaſe an other ſorte or maner of beeſtes which ſhall &amp; wyll be preiudiciall and hurtefull to you, yf ſtronge defence be nat had to the contrary. As waſpes, lezardes, todes, ſerpe<g ref="char:cmbAbbrStroke">̄</g>tes, adders, &amp; ſnakes, &amp; other lyke venymous beeſtes.</p>
+               <p>¶Therfore ſeynge and conſyderynge theſe occaſyons afore pronoſticate: we ſtraytely commaunde vpon payne of the punyſſhment of the beſtes aforſayd, as lyce, flees, &amp; nyttes, eche of you our ſayd ſubiectes aſwell men as women, that ye may prouyde haboundau<g ref="char:cmbAbbrStroke">̄</g>ce and nat ouer meaſure / for we fynde by the wyſe inſtructyon of our vnexpert Aſtrolo<g ref="char:EOLhyphen"/>gians and Pronoſticatours aforſayd, that by occaſyon of this conſtellacion aboue, may be withdrawen out of you our naturall ſub<g ref="char:EOLhyphen"/>iectes and people, all helthe and good natu<g ref="char:EOLhyphen"/>rall dyſpoſicion / from the which as we truſt our lorde ſhall preſerue you. For yf ye conty<g ref="char:EOLhyphen"/>nue ſtyll as ye be, as one fyndeth you, ſo ſhall he leue you, neuer to thryue.</p>
+               <pb facs="tcp:5341:4"/>
+               <p>¶Furtthermore our vnwyſe Aſtrologyans and Pronoſticatours aboue reherſed, playn<g ref="char:EOLunhyphen"/>ly do ſay and affyrme, that yf theſe lytle wor<g ref="char:EOLhyphen"/>mes and beeſtes aforeſayd, as lyce, flees, and nyttes, be and may inhabyt, encreaſe, &amp; breed amonge you and in your araye, as doublets, ſhyrtes, hoſen, &amp; ſuche other your garmentes, and therein well fedde, lodged, and kepte, in great multytude and quantytie innumera<g ref="char:EOLhyphen"/>ble, that that ſhall be vnto you as good as yf ye toke euery daye a purgacyon or lettynge of blood / for they wyll eate and withdraw all your good blood from you, and non ſhall remayne but the bad / of the whiche myght grow great inconuenience in hurtynge your corporall helthe in dyuers maners / as frou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>celynge of your ſkynnes, ſmall ſcrapes and ſcratchynges / ſcalde ſcoruy and ſcabbed he<g ref="char:EOLhyphen"/>des, &amp; other ſemblables, as ſtynkyng odours, impoſtumes, and other wheles, carnels, and cancres / and all ſuche other and lyke aduen<g ref="char:EOLhyphen"/>tures, as moche now as herafter / as we hope that ſodeynly ſhall fall vpon you the conſtel<g ref="char:EOLhyphen"/>lacyon afore reherſed.</p>
+               <p>¶wherefore ſeynge and conſyderynge theſe occaſyons, wherof as we perceyue ye haue no care, as of your honor, helth, &amp; other goodnes to you conuenyent: we wyll and commau<g ref="char:cmbAbbrStroke">̄</g>de vpon the payne aforſayd, that eche of you / as well men as women behaue theym ſelfe to prouyde in the way and maner aforſayd, or els the weke ſhall bete the ſtronge.</p>
+               <pb facs="tcp:5341:4"/>
+               <p>¶And alſo be it prouyded, that yf chaunced ye coulde nat inhabyt &amp; lodge all theſe lytle beeſtes before ſpecified within all your gar<g ref="char:EOLhyphen"/>mentes, as hoſe, ſhyrtes, doublets, hedes, and cotes, we effectually ordeyne, eſtablyſſhe, and enact (and that vpon our great diſpleaſure) that ye lodge and inhabyt them in maner of garnyſon within your beddes, houſes, and in all other your dwellyng places, in ſo great multytude and plenty, that they may put out your iyes / which we pray god may be.</p>
+               <p>And as concernynge the other beeſtes before named, as ſerpentes, adders, todes, lezardes, &amp; other ſuche beynge preiudiciall, in that caſe we wyll &amp; commaunde that ye do after your fantaſtyke foly &amp; wyll, that is to ſaye, to take them or leue them / as it pleaſeth you.</p>
+               <p>¶Alſo we commaunde agayne vppon the paynes aforſayd to you our ſubiectes ſpecifi<g ref="char:EOLhyphen"/>ed, &amp; to all other to whom this dignite belon<g ref="char:EOLhyphen"/>geth, that duryng the tyme, ye be nat ſo bolde to pare or cut your nayles as ye haue vſed to do in tymes paſſed.</p>
+               <p>¶And we by our diſordinate cou<g ref="char:cmbAbbrStroke">̄</g>cell of foles idiots, lunatikes, fantaſtikes, &amp; melancolous people, haue enacted theſe contemptes afore<g ref="char:EOLhyphen"/>ſayd to the contrary nat withſtandynge.</p>
+               <p>¶wherfore we commau<g ref="char:cmbAbbrStroke">̄</g>de vpon the paynes reherced, to all our hed officers, as comon beg<g ref="char:EOLunhyphen"/>gers, vacabondes / ſtelynge pardoners / to the drawers, blynde harpers, berers of fals ſea<g ref="char:EOLhyphen"/>les, outlawes, pyllory knyghtꝭ hedge crepers
+<pb facs="tcp:5341:5"/> and all and euery our naturall offycers ſo loyterynge and ronnynge ouer &amp; in our lan<g ref="char:EOLhyphen"/>des, lordeſhyps, &amp; contrees, that this preſent commaundement generall playnly may be cryed, &amp; with hygh voice publiſſhed &amp; declared to man &amp; woman, dog and cat, with great ſo<g ref="char:EOLhyphen"/>lempnitie, in ſuche purporte and effecte that may com in eaſely at theyr eares &amp; ronne faſt out of theyr arſes, which by lycklyhood may well be / &amp; no man to the contrary withſtan<g ref="char:EOLhyphen"/>dynge / for it pleaſeth vs ſo, &amp; ſo is our wyll to be done.</p>
+               <p>¶In preſence and wytneſſe of the lorde and Capytayne of myſorder, the Prouoſt of euyl prefe, the Eſquier Snyueler, Gautier y<hi rend="sup">e</hi> ſcab<g ref="char:EOLhyphen"/>bed, Philip the halter, &amp; many other / as Ro<g ref="char:EOLhyphen"/>ger outlaw, Thomas pyllorye, &amp; ſuche other our officers of our noble Court teſtifiers.</p>
+               <closer>
+                  <dateline>Fynyſſhed in our Palais &amp; Abbay enuyron<g ref="char:EOLhyphen"/>ned with all miſchief, <date>the .xi. day of Auguſt, &amp; of our reigne. M.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Newly enprynted at London in South<g ref="char:EOLhyphen"/>warke by me Peter Treuerys.</p>
+            <pb facs="tcp:5341:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
